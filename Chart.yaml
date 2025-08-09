@@ -1,0 +1,7 @@
+apiVersion: v2
+name: llabdocs-deployment
+version: 0.1.0
+dependencies:
+  - name: llabdocs
+    version: 1.0-helm
+    repository: oci://registry-1.docker.io/lichbalab
