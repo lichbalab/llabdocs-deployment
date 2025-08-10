@@ -1,6 +1,6 @@
 llabdocs:
   image:
-    tag: build-2024.1-SNAPSHOT-3684f36
+    tag: build-2024.1-SNAPSHOT-c96f1bd
   ingress:
     annotations:
       nginx.ingress.kubernetes.io/configuration-snippet: |
